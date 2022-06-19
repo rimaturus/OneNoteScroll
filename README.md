@@ -13,3 +13,4 @@ Extra:
 It uses:
   1) pdf2image
   2) Image from PIL (Pillow)
+  3) Poppler (for Windows): (https://pypi.org/project/python-poppler/)
